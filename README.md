@@ -1,4 +1,4 @@
-# Turbo CFM
+# Turbo CFML
 
 This is a fork of the [Hotwire Turbo][hotwire-turbo] project. My only goal here is to make Turbo a bit more CFML compatible by including `cfc`, `cfm`, and `cfml` in the list of file extensions that Turbo considers to be likely to serve HTML content.
 
